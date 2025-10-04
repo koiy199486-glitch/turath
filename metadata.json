@@ -1,0 +1,7 @@
+{
+  "name": "Al-Torath Academy",
+  "description": "An online learning platform for students, providing courses, lectures, assignments, and exams in various subjects. Built with a modern, mobile-first interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
